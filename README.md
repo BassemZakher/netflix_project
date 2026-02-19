@@ -32,7 +32,7 @@ This project analyzes Netflix’s global content catalogue to identify trends in
 ---
 
 ## **How to Use This Project**
-1. **Download the Power BI file** ([netflix_analysis.pbix](https://data-analytics-fullstack-assets.s3.eu-west-3.amazonaws.com/M09-POWERBI/netflix_titles.csv)).
+1. **Download the Power BI file**.
 2. Open in **Power BI Desktop** (free version).
 3. Use filters to explore:
    - Content distribution by country/genre.
