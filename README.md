@@ -51,4 +51,8 @@ This project analyzes Netflix’s global content catalogue to identify trends in
 - Integrate **predictive modeling** for content recommendations.
 
 ---
-**Contact**: [ZAKHER Bassem LinkedIn](https://www.linkedin.com/in/bassem-zakher/)
+
+### 📬 Contact
+
+**ZAKHER Bassem** - Data Analyst   
+[LinkedIn](https://www.linkedin.com/in/bassem-zakher/)
